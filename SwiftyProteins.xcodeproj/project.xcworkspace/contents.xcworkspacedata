@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:Swifty Proteins Logo 76.png">
+   </FileRef>
+   <FileRef
+      location = "group:Swifty Proteins Logo 120.png">
+   </FileRef>
+   <FileRef
+      location = "group:Swifty Proteins Logo 152.png">
+   </FileRef>
+   <FileRef
+      location = "group:Swifty Proteins Logo 167.png">
+   </FileRef>
+   <FileRef
+      location = "group:Swifty Proteins Logo 180.png">
+   </FileRef>
+   <FileRef
+      location = "self:">
+   </FileRef>
+</Workspace>
